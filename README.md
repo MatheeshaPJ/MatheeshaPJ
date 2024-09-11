@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatheeshaPJ
-This is my Academic profile.
+- This is my Academic profile.
 
 <!---
 MatheeshaPJ/MatheeshaPJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
